@@ -14,10 +14,19 @@ Test-drive AwesomeGameCMS with our interactive demos (no registration required):
 
 | Site URL | Description |  
 |----------|-------------|  
-| [https://demo.awesomegamecms.com/admin](https://demo.awesomegamecms.com/admin) | **Admin Dashboard**<br>Full access to game management, user analytics, and monetization tools.<br>_Test Login_: `admin@demo.awesomegamecms.com` • `Demo123!` |  
-| [https://demo.awesomegamecms.com/publisher](https://demo.awesomegamecms.com/publisher) | **Publisher Portal**<br>Simplified workflow for uploading games, setting regional pricing, and tracking revenue.<br>_Test Login_: `publisher@demo.awesomegamecms.com` • `Demo123!` |  
-| [https://demo.awesomegamecms.com/player](https://demo.awesomegamecms.com/player) | **Player Interface**<br>Experience the end-user journey: browsing games, making test purchases, and managing accounts. |  
-| [https://demo.awesomegamecms.com/api-docs](https://demo.awesomegamecms.com/api-docs) | **API Playground**<br>Interactive Swagger UI to test RESTful APIs for game deployment, user management, and more. |  
+| [https://relaxplaypro.com](https://relaxplaypro.com) |RelaxplayPro delivers ​instant stress-busting games​ 🎮 without downloads, fees, or sign-ups! Play hundreds of HTML5 games on any device—unblocked at work/school—to smash anxiety, spark joy, and reclaim your zen in seconds. No waiting, no hassle, pure fun! ✨ |
+| [https://shotgamehub.com](https://shotgamehub.com) | ShotGameHub​ delivers adrenaline-pumping HTML5 shooting games! Dive into free 3D adventures, tactical war scenarios, and seamless gun gameplay—all optimized for instant play on any device. No downloads, no fuss! 🎮💥 |
+| [https://clickplayhub.com](https://clickplayhub.com) |Dive into ClickPlayHub! Instantly play ​free online games​ with ​no download​ needed. Enjoy ​action, ​clicker, and ​agility​ games anytime, anywhere—even at school or work! Unblock the fun now 🎮!. |
+| [https://ninefami.com](https://ninefami.com) | Dive into ​FamilyGameStore​! We offer tons of ​free online games for girls​ and kids—no download needed! Play ​Baby Hazel, ​dress-up, ​makeover, and ​princess games​ instantly. Safe, fast, and unblocked fun for the whole family! 🎮✨|
+| [https://instantplayapp.top](https://instantplayapp.top) | Zoom into ​fast-paced, ​adrenaline-pumping​ racing fun at InstantPlay! Enjoy a huge collection of ​free online racing games​ with zero downloads – just pure, ​unblocked​ gaming joy. Get behind the wheel, challenge friends, and burn rubber anytime, anywhere. It’s instant entertainment, no brakes! 🏎️💨|
+| [https://just-playing.link](https://just-playing.link) | Tired of downloads? Get instant kicks with ​free online sports games​ at JustPlaying! Shoot hoops, score worldies, and tackle retro classics like ​Retro Bowl​ directly in your browser. No installs, no fuss, just pure play. Game on! 🎮⚽🏀|
+| [https://lightplayhub.com](https://lightplayhub.com) |LightGameHub is your go-to spot for instant fun with a massive collection of free HTML5 games! Dive into puzzles, strategy challenges, brain teasers, word games, jigsaws, and card games—all playable right in your browser without downloads or installs. Perfect for quick sessions at school, work, or home! 🎮😉|
+| [https://bestbuy365.shop](https://bestbuy365.shop) |Play free shopping games online at BestBuy365. Enjoy fun supermarket and shopping games with no download, unblocked access, and hours of entertainment for all ages.|
+| [https://hugegamehub.com](https://hugegamehub.com) |HugeGameHub has thousands of free online HTML5 games—no downloads, fully unblocked! Play on phone/laptop, no strings attached—action, puzzles, & more, anytime.|
+| [https://gamecompose.click](https://gamecompose.click) |Blend & play 1000+ free HTML5 games at GameCompose.click! Zero downloads, instant browser play, and unblocked access to puzzle/arcade/action mixes. Play anywhere, anytime - your boss won't even notice! 🕹️✨|
+| [https://gamebar.store](https://gamebar.store) |GameBar (gamebar.store) is your ultimate online gaming haven! It’s packed with tons of free bar games—no downloads needed, play anytime, anywhere. Whether you’re on PC, phone, or tablet, enjoy seamless gaming fun and unlock endless good times easily!|
+| [https://publead360.com](https://publead360.com) |Play free online pub games daily at DailyGame360! No downloads needed—enjoy unblocked 360 games on any device, from classic pub favorites to new daily releases. Start playing instantly!|
+| [https://letusplaying.com](https://letusplaying.com) |Letusplay is your ultimate gaming destination, where connection, competition, and celebration come alive in every click. Join a vibrant|
 
 
 ## 🚀 Core Capabilities  
@@ -152,5 +161,6 @@ AwesomeGameCMS is released under the **MIT License**. Use, modify, and distribut
 If AwesomeGameCMS simplifies your global H5 game operations, give us a star on GitHub! Your support helps us grow.  
 
 ---  
+
 
 *Built for global game creators, by global game creators.*
